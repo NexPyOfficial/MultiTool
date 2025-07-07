@@ -1,5 +1,5 @@
-██╗████████╗ █████╗ 
-██║╚══██╔══╝██╔══██╗
+██╗ ████████╗  █████╗ 
+██║ ╚══██╔══╝ ██╔══██╗
 ██║    ██║    ███████║
 ██║    ██║    ██╔══██║
 ██║    ██║    ██║  ██║
@@ -14,8 +14,8 @@ Everything: Usato anche questo per vedere le stringhe delle app!
 
 ███████╗███╗   ██╗  ██████╗ 
 ██╔════╝████╗  ██ ║██╔════╝ 
-█████╗   ██╔██╗ ██ ║██║  ███╗
-██╔══╝   ██║╚██╗██ ║██║   ██║
+█████╗  ██╔██╗ ██ ║██║  ███╗
+██╔══╝  ██║╚██╗██ ║██║   ██║
 ███████╗██║ ╚████║╚██████╔╝
 ╚══════╝╚═╝  ╚═══╝ ╚═════╝
 Hi, I'm Christian! The owner of this program! I wanted to let you know that if you rename the root folder, the BAM app will no longer work!
@@ -29,8 +29,8 @@ Everything: Also used this to see app strings!
 ███████╗██████╗ ███████╗
 ██╔════╝██╔══   ╗██╔════╝
 █████╗   ██████╔╝█████╗  
-██╔══╝   ██╔══   ╗██╔══╝  
-██║       ██║      ║███████╗
+██╔══╝   ██╔══╗██╔══╝  
+██║       ██║   ║███████╗
 ╚═╝       ╚═╝   ╚═╝╚══════╝
 
 Salut, je suis Christian ! Le propriétaire de ce programme ! Je voulais vous faire savoir que si vous renommez le dossier racine, l'application BAM ne fonctionnera plus !
