@@ -1,9 +1,4 @@
-██╗ ████████╗  █████╗ 
-██║ ╚══██╔══╝ ██╔══██╗
-██║    ██║    ███████║
-██║    ██║    ██╔══██║
-██║    ██║    ██║  ██║
-╚═╝    ╚═╝    ╚═╝  ╚═╝
+# Italiano
 Ciao sono Christian! Il proprietario di questo programma! Volevo farti sapere che se rinomini la cartella principale, l'app BAM non funzionerà più!
 
 Dentro questo programma c'è:
@@ -12,12 +7,7 @@ UsbDeview: Usato per controllare le periferiche attualmente collegate al Compute
 BAM: Usato per vedere le ultime app aperte
 Everything: Usato anche questo per vedere le stringhe delle app!
 
-███████╗███╗   ██╗  ██████╗ 
-██╔════╝████╗  ██ ║██╔════╝ 
-█████╗  ██╔██╗ ██ ║██║  ███╗
-██╔══╝  ██║╚██╗██ ║██║   ██║
-███████╗██║ ╚████║╚██████╔╝
-╚══════╝╚═╝  ╚═══╝ ╚═════╝
+# English
 Hi, I'm Christian! The owner of this program! I wanted to let you know that if you rename the root folder, the BAM app will no longer work!
 
 Inside this program there is:
@@ -26,12 +16,7 @@ UsbDeview: Used to check the devices currently connected to the Computer
 BAM: Used to see the latest opened apps
 Everything: Also used this to see app strings!
 
-███████╗██████╗ ███████╗
-██╔════╝██╔══   ╗██╔════╝
-█████╗   ██████╔╝█████╗  
-██╔══╝   ██╔══╗██╔══╝  
-██║       ██║   ║███████╗
-╚═╝       ╚═╝   ╚═╝╚══════╝
+# Française
 
 Salut, je suis Christian ! Le propriétaire de ce programme ! Je voulais vous faire savoir que si vous renommez le dossier racine, l'application BAM ne fonctionnera plus !
 
@@ -41,12 +26,7 @@ UsbDeview : utilisé pour vérifier les appareils actuellement connectés à l'
 BAM : utilisé pour voir les dernières applications ouvertes
 Tout : également utilisé ceci pour voir les chaînes de l'application !
 
- ██████╗ ███████╗██████╗ 
-██╔════╝██╔════╝██╔══██╗
-██║  ███ █████╗  ██████╔╝
-██║   ██║ ██╔══╝  ██╔══██╗
-╚██████╔╝███████╗██║  ██║
- ╚═════╝ ╚══════╝╚═╝  ╚═╝
+# Deutsch
 
 Hallo, ich bin Christ! Der Besitzer dieses Programms! Ich wollte Sie darüber informieren, dass die BAM-Anwendung nicht mehr funktioniert, wenn Sie den Stammordner umbenennen!
 
